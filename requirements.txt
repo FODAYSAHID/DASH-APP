@@ -1,4 +1,4 @@
-dash==1.0.0
+dash==2.15.0
 plotly==3.10.0
 cufflinks>=0.16
 gunicorn>=19.7.1
